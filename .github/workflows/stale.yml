@@ -22,8 +22,8 @@ jobs:
     steps:
       - uses: actions/stale@v10
         with:
-          days-before-stale: 30
-          days-before-close: 1
+          days-before-stale: -1
+          days-before-close: -1
           stale-issue-label: ${{ env.STALE_LABEL }}
           exempt-issue-labels: ${{ env.EXEMPT_LABELS }}
           stale-issue-message: ${{ env.MESSAGE }}
