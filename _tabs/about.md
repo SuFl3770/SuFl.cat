@@ -5,6 +5,8 @@ order: 4
 ---
 
 # SuFl
+<img width="300" src="/assets/img/sufl/ayra.png">
+
 - mail : connect@sufl.cat
 - page : [SuFl.cat](https://sufl.cat/), [SuFl.moe](https://sufl.moe/)
 - color : #f8f7b9, #77ec77
