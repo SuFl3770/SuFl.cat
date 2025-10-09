@@ -5,7 +5,8 @@ order: 4
 ---
 
 # SuFl
-<img width="300" src="/assets/img/sufl/ayra.png">
+![Ayra](/assets/img/sufl/ayra.png){: width="300" }
+_Minato Ayra_
 
 - mail : connect@sufl.cat
 - page : [SuFl.cat](https://sufl.cat/), [SuFl.moe](https://sufl.moe/)
