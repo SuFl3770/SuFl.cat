@@ -9,7 +9,7 @@ order: 4
 _Minato Ayra_
 
 - mail : connect@sufl.cat
-- page : [SuFl.cat](https://sufl.cat/), [SuFl.moe](https://sufl.moe/)
+- page : [SuFl.cat](https://sufl.cat/), [SuFl.moe](https://sufl.moe/), [Ayra.moe](https://ayra.moe/)
 - color : #f8f7b9, #77ec77
 - Copyright (C) 2021 - 2025 SuFl, All rights reserved.
 
